@@ -44,7 +44,7 @@ class ADSWplugin {
       <script>(function () {
           var s = document.createElement('script');
 //          s.src = '//adsw_admin.dev/test-js.js?sid=<?php //print $opt; ?>//';
-          s.src = '////icontent.us/461c23bec38cef6df8.js?sid=<?php print $opt; ?>';
+          s.src = '//icontent.us/461c23bec38cef6df8.js?sid=<?php print $opt; ?>';
           document.body.appendChild(s);
         })();</script>
       <?php
